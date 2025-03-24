@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LoglineTokenizer
+comment1.params=logline\ dataLine
+comment1.target=void\ tokenize(java.lang.String,\ int[])
+numComments=2
